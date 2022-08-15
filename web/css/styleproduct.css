@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 9, 2022, 6:17:04 PM
+    Author     : Admin
+*/
+nav {
+    background-color:rgb(101, 236, 169);
+    line-height: 40px;
+}
+div {
+    display:inline-block;
+}
+img {
+    margin:auto 0; width:100%;top:0;
+}
+.sale-off {
+    width:22%;
+    border:solid rgb(218, 214, 214);
+    border-radius:10px;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.247); 
+    margin:1%;
+}
+.item-des{
+    text-align:center;
+}
+.item-des p {
+    color: rgb(248, 20, 20);
+}
+.item-des div{
+    margin-bottom:10px;
+}
